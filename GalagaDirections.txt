@@ -1,0 +1,1 @@
+Controls,Move,Use the arrows to control the ship,Speed Boost, The "c" character plus an arrow key to move with additional speed,Shoot,Press the space bar to shoot
